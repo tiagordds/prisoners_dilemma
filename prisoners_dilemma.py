@@ -47,8 +47,9 @@ while current_round < ROUNDS:
         play2 = player_2(1)
     elif player_1_choice[-2] == "Defect":
         play2 = player_2(2)
+    player_2_choice.append(play2)
 
-    print(f"{play1} /////// {play2}")
+    # print(f"{play1} /////// {play2}")
 
     if play1 == "Cooperate" and play2 == "Cooperate":
         print(player_score(3, 3))
@@ -63,3 +64,10 @@ while current_round < ROUNDS:
         print(player_score(1, 1))
 
     current_round += 1
+
+
+with open("score_log.txt", "w") as log:
+    for i, choice_ in enumerate(player_1_choice):
+        log.write(f"Player 1: {player_1_choice[i]}\n")
+    for i, choice_ in enumerate(player_2_choice):
+        log.write(f"Player 2: {player_2_choice[i]}\n")
