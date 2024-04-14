@@ -49,7 +49,7 @@ while current_round < ROUNDS:
         play2 = player_2(2)
     player_2_choice.append(play2)
 
-    # print(f"{play1} /////// {play2}")
+    print(f"{play1} /////// {play2}")
 
     if play1 == "Cooperate" and play2 == "Cooperate":
         print(player_score(3, 3))
@@ -65,9 +65,15 @@ while current_round < ROUNDS:
 
     current_round += 1
 
+print(player_1_score, player_2_score)
 
-with open("score_log.txt", "w") as log:
-    for i, choice_ in enumerate(player_1_choice):
-        log.write(f"Player 1: {player_1_choice[i]}\n")
-    for i, choice_ in enumerate(player_2_choice):
-        log.write(f"Player 2: {player_2_choice[i]}\n")
+with open("score_log.txt", "a") as log:
+    players_choices = zip(player_1_choice, player_2_choice)
+
+    for player1, player2 in players_choices:
+        log.write("\n")
+        log.write(f"(Player1: {player1})  ")
+        log.write(f"(Player2: {player2})\n")
+    log.write("***** \n")
+    log.write(str(f"Score do player 1 = {player_1_score}\n"))
+    log.write(str(f"Score do player 2 = {player_2_score}\n"))
