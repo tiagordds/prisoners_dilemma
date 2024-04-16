@@ -3,148 +3,11 @@
 
 (Player1: Defect)  (Player2: Defect)
 
-(Player1: Defect)  (Player2: Defect)
-
 (Player1: Cooperate)  (Player2: Defect)
 
 (Player1: Cooperate)  (Player2: Cooperate)
 
 (Player1: Cooperate)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Cooperate)
-
-(Player1: Cooperate)  (Player2: Cooperate)
-***** 
-Score do player 1 = 100
-Score do player 2 = 100
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Cooperate)
-
-(Player1: Cooperate)  (Player2: Cooperate)
-
-(Player1: Cooperate)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Defect)
 
 (Player1: Defect)  (Player2: Cooperate)
 
@@ -156,17 +19,19 @@ Score do player 2 = 100
 
 (Player1: Defect)  (Player2: Cooperate)
 
+(Player1: Cooperate)  (Player2: Defect)
+
+(Player1: Defect)  (Player2: Cooperate)
+
 (Player1: Defect)  (Player2: Defect)
 
 (Player1: Cooperate)  (Player2: Defect)
 
-(Player1: Cooperate)  (Player2: Cooperate)
+(Player1: Defect)  (Player2: Cooperate)
 
-(Player1: Cooperate)  (Player2: Cooperate)
+(Player1: Defect)  (Player2: Defect)
 
-(Player1: Cooperate)  (Player2: Cooperate)
-
-(Player1: Cooperate)  (Player2: Cooperate)
+(Player1: Cooperate)  (Player2: Defect)
 
 (Player1: Defect)  (Player2: Cooperate)
 
@@ -184,7 +49,9 @@ Score do player 2 = 100
 
 (Player1: Defect)  (Player2: Cooperate)
 
-(Player1: Defect)  (Player2: Defect)
+(Player1: Cooperate)  (Player2: Defect)
+
+(Player1: Defect)  (Player2: Cooperate)
 
 (Player1: Cooperate)  (Player2: Defect)
 
@@ -194,219 +61,43 @@ Score do player 2 = 100
 
 (Player1: Cooperate)  (Player2: Defect)
 
-(Player1: Cooperate)  (Player2: Cooperate)
+(Player1: Defect)  (Player2: Cooperate)
+
+(Player1: Cooperate)  (Player2: Defect)
 
 (Player1: Defect)  (Player2: Cooperate)
+
+(Player1: Cooperate)  (Player2: Defect)
+
+(Player1: Defect)  (Player2: Cooperate)
+
+(Player1: Cooperate)  (Player2: Defect)
+
+(Player1: Defect)  (Player2: Cooperate)
+
+(Player1: Defect)  (Player2: Defect)
+
+(Player1: Defect)  (Player2: Defect)
+
+(Player1: Defect)  (Player2: Defect)
+
+(Player1: Defect)  (Player2: Defect)
+
+(Player1: Defect)  (Player2: Defect)
+
+(Player1: Cooperate)  (Player2: Defect)
+
+(Player1: Defect)  (Player2: Cooperate)
+
+(Player1: Cooperate)  (Player2: Defect)
+
+(Player1: Defect)  (Player2: Cooperate)
+
+(Player1: Defect)  (Player2: Defect)
 
 (Player1: Defect)  (Player2: Defect)
 
 (Player1: Defect)  (Player2: Defect)
 ***** 
-Score do player 1 = 113
-Score do player 2 = 108
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Cooperate)
-
-(Player1: Cooperate)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Cooperate)
-
-(Player1: Cooperate)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Cooperate)
-
-(Player1: Cooperate)  (Player2: Cooperate)
-
-(Player1: Cooperate)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Defect)
-***** 
-Score do player 1 = 114
-Score do player 2 = 109
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Cooperate)
-
-(Player1: Cooperate)  (Player2: Cooperate)
-
-(Player1: Cooperate)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Cooperate)
-
-(Player1: Cooperate)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Cooperate)
-
-(Player1: Cooperate)  (Player2: Cooperate)
-
-(Player1: Cooperate)  (Player2: Cooperate)
-
-(Player1: Cooperate)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Cooperate)
-
-(Player1: Cooperate)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Cooperate)
-
-(Player1: Cooperate)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Cooperate)
-
-(Player1: Cooperate)  (Player2: Cooperate)
-
-(Player1: Cooperate)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Cooperate)
-
-(Player1: Defect)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Defect)
-
-(Player1: Cooperate)  (Player2: Cooperate)
-***** 
-Score do player 1 = 116
-Score do player 2 = 116
+Score do player 1 = 110
+Score do player 2 = 105

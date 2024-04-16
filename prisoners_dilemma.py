@@ -67,7 +67,7 @@ while current_round < ROUNDS:
 
 print(player_1_score, player_2_score)
 
-with open("score_log.txt", "a") as log:
+with open("score_log.txt", "w") as log:
     players_choices = zip(player_1_choice, player_2_choice)
 
     for player1, player2 in players_choices:
